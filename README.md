@@ -23,4 +23,12 @@
 <li> And using onSubmit call the submitForm method prevent the default behaviour of the form and printed the data .</li><br><br>
 <h4>Screenshot</h4><br>
 
-![Form Handling](image-2.png)
+![Form Handling](image-2.png) <br>
+
+<h2> 3. Gif Generator</h2> <br>
+<ul>
+<li>The user can input text and gif rating into an input field.</li>
+<li>When the user clicks on "Generate" button, it will create a new random gif with src as the giphy API url along </li> <br>
+<h4>Screenshot</h4><br>
+
+![Random Gif Generator](image-3.png)
